@@ -2,6 +2,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as pt
 
+#The dataset here is taken from JAY L DEVORE textbook for 
+#Probability and statistics for enginnering and sciences
 sample_data = np.array([1.6,2.0,2.6,3.0,3.5,
                         3.9,4.5,4.6,4.8,5.0,
                         5.1,5.3,5.4,5.6,5.8,
